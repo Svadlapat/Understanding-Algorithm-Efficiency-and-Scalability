@@ -1,5 +1,4 @@
 # Understanding-Algorithm-Efficiency-and-Scalability
-# Understanding Algorithm Efficiency and Scalability
 
 This repository contains the implementation and analysis for Assignment 3, which focuses on the efficiency and scalability of **Randomized Quicksort** and **Hashing with Chaining**.
 
